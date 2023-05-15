@@ -7,6 +7,6 @@
 
 Login Details
 Login Details for admin : admin/admin
-Login Details for Patient: Parth@gmail.com/Partj@123
+Login Details for Patient: Parth@gmail.com/Parth@123
 Login Details for Doctor: manan@gmail.com.com/Manan@123
 Login Details for Lab : lab/lab
